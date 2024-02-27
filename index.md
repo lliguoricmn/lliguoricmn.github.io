@@ -1,20 +1,7 @@
 # Quick start
 
 My Web Page
-<!Doctypehtml> -
-</div>
-      
-      </div>
-       
 
-      <div class="item">
-        <img src="chicago.jpg" alt="Chicago" width="1200" height="700">
-        <div class="carousel-caption">
-          <h3>Chicago</h3>
-          <p>Thank you, Chicago - A night we won't forget.</p>
-        </div>      
-      </div>
-    
  
 <html lang="en">
 <head>
