@@ -1,14 +1,7 @@
-# Quick start
-
-My Web Page
-
- 
 <html lang="en">
 <head>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
-  <title>Bootstrap Theme The Band</title>
- 
-<html lang="en">
+  <html lang="en">
 <head>
   <title>Bootstrap Example</title>
   <meta charset="utf-8">
@@ -18,10 +11,8 @@ My Web Page
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-
 <div class="jumbotron text-center">
   <h1>My First Bootstrap Page</h1>
-  <p>Resize this responsive page to see the effect!</p> 
 </div>
   
 <div class="container">
